@@ -281,6 +281,7 @@ static const KeycodeLabel KEYCODES[] = {
     { "RADIO_TURNDOWN", 346},
     { "SWITCH_FMAM", 347},
     { "LIGHTSTATE", 348},
+    { "REVERSE", 349},
     //******************************************************************
 
     // NOTE: If you add a new keycode here you must also add it to several other files.

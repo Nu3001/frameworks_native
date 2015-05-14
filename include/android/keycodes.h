@@ -297,7 +297,8 @@ enum {
     AKEYCODE_BONOVO_RADIO_TURNUP      = 345,
     AKEYCODE_BONOVO_RADIO_TURNDOWN    = 346,
     AKEYCODE_BONOVO_SWITCH_FMAM       = 347,
-    AKEYCODE_BONOVO_LIGHTSTATE       = 348,
+    AKEYCODE_BONOVO_LIGHTSTATE        = 348,
+    AKEYCODE_BONOVO_LIGHTSTATE        = 349,
     //******************************************************************
 
     // NOTE: If you add a new keycode here you must also add it to several other files.
