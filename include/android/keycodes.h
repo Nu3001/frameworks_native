@@ -299,6 +299,7 @@ enum {
     AKEYCODE_BONOVO_SWITCH_FMAM       = 347,
     AKEYCODE_BONOVO_LIGHTSTATE        = 348,
     AKEYCODE_BONOVO_REVERSE           = 349,
+    AKEYCODE_BONOVO_BT_VOICEDIAL      = 350,
     //******************************************************************
 
     // NOTE: If you add a new keycode here you must also add it to several other files.
